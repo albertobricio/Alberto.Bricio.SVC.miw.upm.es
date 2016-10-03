@@ -1,5 +1,5 @@
 @echo off
-set workspace=C:\Users\user\Desktop\Ecosistema\workspace\Alberto.Bricio.SVC.miw.upm.es
+set workspace=C:\Users\user\git\Alberto.Bricio.SVC.miw.upm.es
 ::Las variables de entorno se pueden configurar directamente en Windows cuando se tienen los permisos necesarios
 set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_101
 set M2_HOME=C:\Archivos_de_programa\apache-maven-3.3.9
